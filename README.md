@@ -1,2 +1,2 @@
-# kickpuncherthegame.github-io
-Kickpucher website
+# kp-wireframe-test
+KickPuncher WireFrame tests
